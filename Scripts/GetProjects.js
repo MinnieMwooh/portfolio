@@ -25,6 +25,8 @@ function updateHTML(configData) {
     document.querySelector("#pfProject1Title").innerHTML = projectTitle;
     document.querySelector("#pfProject1Desc").innerHTML = configData.Project1.Desc;
     document.querySelector("#pfProject1Repo").href = configData.Project1.GitHubRepo;
+    document.querySelector("#pfProject1Proposal").href = configData.Project1.SystemProposal;
+    document.querySelector("#pfProject1Specification").href = configData.Project1.SystemSpecification;
     if (!configData.Project1.GitHubRepo) {
       document.querySelector("#pfProject1Repo").style.display = "none";
     }
