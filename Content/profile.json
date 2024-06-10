@@ -1,32 +1,32 @@
 {
-"About": {
-  "Name": "Minnie Cao",
-  "Currently": "Computer Science Student",
-  "Headshot": "IMG_1376 (1).jpg",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Minnie Cao. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
-},
-"Contact": {
-  "EMail": "caog@spu.edu",
-  "Phone": "(469) 988 2807",
-  "Portfolio": "https://github.com/MinnieMwooh/portfolio.github.io.git/index.html",
-  "LinkedIn": "www.linkedin.com/in/gia-nam-tran-cao",
-  "GitHub": "https://github.com/MinnieMwooh"
-},
-"Experience": {
-  "ExperienceText": "I have experience with Java, C++, C, JavaScript, HTML, and MIPS.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2025",
-  "Skills": ["Java", " C++", " JavaScript", " C", " CSS"," HTML", " MIPS"],
-  "Resume": "MnnieCao_resume.pdf"  
-},
-"Project1": {
+  "About": {
+    "Name": "Minnie Cao",
+    "Currently": "Computer Science Student",
+    "Headshot": "IMG_1376.jpg",
+    "Thumbnail": "student-logo.webp",
+    "AboutText": "Hi, I am Minnie Cao. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  },
+  "Contact": {
+    "Email": "caog@spu.edu",
+    "Phone": "(469) 988-2807",
+    "Portfolio": "https://github.com/MinnieMwooh/portfolio.github.io",
+    "LinkedIn": "https://www.linkedin.com/in/gia-nam-tran-cao",
+    "GitHub": "https://github.com/MinnieMwooh"
+  },
+  "Experience": {
+    "ExperienceText": "I have experience with Java, C++, C, JavaScript, HTML, and MIPS.",
+    "School": "Seattle Pacific University",
+    "Major": "Computer Science",
+    "Graduation": "June 2025",
+    "Skills": ["Java", "C++", "JavaScript", "C", "CSS", "HTML", "MIPS"],
+    "Resume": "MinnieCao_resume.pdf"
+  },
+  "Project1": {
     "Title": "Study Partner Matching System Design",
-    "Desc": "The Study Partner Matching is a mobile application designed to connect students with compatible study partners based on shared academic interests and study habits. The system aims to enhance academic collaboration and improve study outcomes. The system prioritizes user privacy and security, ensuring a safe and efficient platform for students to find and interact with study partners.<br><br>More details are shown in Github Repo",
-    "GitHubRepo": "https://github.com/MinnieMwooh/study-partner-matching.github.io.git",
+    "Desc": "The Study Partner Matching is a mobile application designed to connect students with compatible study partners based on shared academic interests and study habits. The system aims to enhance academic collaboration and improve study outcomes. The system prioritizes user privacy and security, ensuring a safe and efficient platform for students to find and interact with study partners.<br><br>More details are shown in the GitHub repo.",
+    "GitHubRepo": "https://github.com/MinnieMwooh/study-partner-matching.github.io",
     "SystemProposal": "https://github.com/MinnieMwooh/portfolio.github.io/blob/main/Content/StudyPartnerMatching_SystemProposal.pdf",
     "SystemSpecification": "https://github.com/MinnieMwooh/portfolio.github.io/blob/main/Content/StudyPartnerMatching_SystemSpecification.pdf",
-    "MainImage": "Screenshot 2024-06-08 225103.png"
+    "MainImage": "Screenshot_2024-06-08_225103.png"
   }
 }
