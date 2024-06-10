@@ -18,13 +18,12 @@
     "School": "Seattle Pacific University",
     "Major": "Computer Science",
     "Graduation": "June 2025",
-    "Skills": ["Java", "C++", "JavaScript", "C", "CSS", "HTML", "MIPS"],
+    "Skills": ["Java", " C++", " JavaScript", " C", " CSS", " HTML", " MIPS"],
     "Resume": "MinnieCao_resume.pdf"
   },
   "Project1": {
     "Title": "Study Partner Matching System Design",
-    "Desc": "The Study Partner Matching is a mobile application designed to connect students with compatible study partners based on shared academic interests and study habits. The system aims to enhance academic collaboration and improve study outcomes. The system prioritizes user privacy and security, ensuring a safe and efficient platform for students to find and interact with study partners.<br><br>More details are shown in the GitHub repo.",
-    "GitHubRepo": "https://github.com/MinnieMwooh/study-partner-matching.github.io",
+    "Desc": "The Study Partner Matching is a mobile application designed to connect students with compatible study partners based on shared academic interests and study habits. The system aims to enhance academic collaboration and improve study outcomes. The system prioritizes user privacy and security, ensuring a safe and efficient platform for students to find and interact with study partners.<br><br>More details are in the documents below",
     "SystemProposal": "https://github.com/MinnieMwooh/portfolio.github.io/blob/main/Content/StudyPartnerMatching_SystemProposal.pdf",
     "SystemSpecification": "https://github.com/MinnieMwooh/portfolio.github.io/blob/main/Content/StudyPartnerMatching_SystemSpecification.pdf",
     "MainImage": "Screenshot 2024-06-10 113054.png",
